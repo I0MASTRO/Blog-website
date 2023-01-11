@@ -16,6 +16,8 @@ body{
     top: 46px;
 }
 
+
+/*Оформление строки навигации и логотипа*/
 .frame-1{   
     display: flex;
     flex-direction: row;
@@ -29,4 +31,19 @@ body{
     height: 62px;
     left: 100px;
     top: 46px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 13px;
+
+    width: 236.26px;
+    height: 60px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
