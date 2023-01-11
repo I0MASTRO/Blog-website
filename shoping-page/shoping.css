@@ -1,0 +1,17 @@
+body{
+    position: relative;
+
+    width: 1920px;
+    height: 6814px;
+
+    background-color: white;
+}
+
+.main-sec{
+    position: absolute;
+
+    width: 1720px;
+    height: 970px;
+    left: 100px;
+    top: 46px;
+}
