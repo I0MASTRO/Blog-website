@@ -177,8 +177,9 @@ order: 3;
 flex-grow: 0;
 }
 
-.content{
-    width: 134px;
+.cont{
+    position: relative;
+width: 134px;
 height: 62px;
 
 
@@ -188,8 +189,8 @@ order: 1;
 flex-grow: 0;
 }
 
-#rectangle{
-    position: absolute;
+.mybutton{
+
 width: 134px;
 height: 62px;
 left: 706px;
@@ -199,12 +200,12 @@ background: #000000;
 border-radius: 7px;
 }
 
-.up{
-    position: absolute;
+.add{
 width: 90px;
 height: 32px;
 left: 728px;
 top: 13px;
+cursor: pointer;
 
 font-family: 'Poppins';
 font-style: normal;
