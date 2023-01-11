@@ -274,5 +274,49 @@ line-height: 45px;
 letter-spacing: -0.05em;
 
 color: #FFFFFF;
+}
 
+.text-gr{
+position: absolute;
+width: 474px;
+height: 473px;
+right: 1227px;
+top: 241px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 96px;
+line-height: 120px;
+/* or 125% */
+
+color: #000000;
+}
+
+.live{
+    position: absolute;
+width: 606px;
+height: 58px;
+left: 219px;
+top: 754px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+letter-spacing: -0.05em;
+
+color: #191818;
+
+}
+
+.image{
+    position: absolute;
+width: 871px;
+height: 784px;
+left: 868px;
+top: 232px;
+
+background: url(313835_happy-man-png.png);
 }
