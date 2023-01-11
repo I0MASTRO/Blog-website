@@ -190,7 +190,6 @@ flex-grow: 0;
 }
 
 .mybutton{
-
 width: 134px;
 height: 62px;
 left: 706px;
@@ -217,3 +216,63 @@ letter-spacing: -0.03em;
 color: #FEFEFE;
 }
 
+.group{
+    position: relative;
+width: 1720px;
+height: 852px;
+left: 100px;
+top: 164px;
+}
+
+.conte{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 34px;
+
+position: relative;
+width: 445px;
+height: 82px;
+left: 225px;
+top: 844px;
+}
+
+.grup{
+    width: 221px;
+height: 82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.but{
+width: 221px;
+height: 82px;
+left: 224px;
+top: 0px;
+
+background: #000000;
+border-radius: 10px;
+}
+
+.shop{
+width: 140px;
+height: 45px;
+left: 265px;
+top: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+letter-spacing: -0.05em;
+
+color: #FFFFFF;
+
+}
