@@ -1,0 +1,16 @@
+body{
+    position: relative;
+    width: 1360px;
+    height: 3669px;
+
+    background: #1a1a29;
+}
+
+.head-main{
+    position: absolute;
+
+    width: 1360px;
+    height: 641px;
+    left: 0;
+    top: 0;
+}
