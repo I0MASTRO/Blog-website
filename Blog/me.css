@@ -14,3 +14,59 @@ body{
     left: 0;
     top: 0;
 }
+
+.me{
+    position: absolute;
+    width: 1360px;
+    height: 561px;
+    left: 0px;
+    top: 80px;
+}
+
+.hi{
+    position: absolute;
+    width: 148px;
+    height: 48px;
+    left: 136px;
+    top: 203px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+ 
+    color: #FFFFFF;      
+}
+
+.name-me{
+    position: absolute;
+    width: 426px;
+    height: 78px;
+    left: 136px;
+    top: 257px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 78px;
+
+    color: #F5F5F5;
+}
+
+.story{
+    position: absolute;
+    width: 435px;
+    height: 81px;
+    left: 136px;
+    top: 347px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}
