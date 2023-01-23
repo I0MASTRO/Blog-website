@@ -181,7 +181,7 @@ body{
     cursor: pointer;
 
     position: absolute;
-    width: 159px;
+    width: 160px;
     height: 48px;
 
     left: 328px;
@@ -196,10 +196,6 @@ body{
 }
 
 .projec{
-    position: absolute;
-    width: 66px;
-    height: 24px;
-
     left: 362px;
     top: 475px;
     bottom: 62px;
