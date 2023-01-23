@@ -6,3 +6,21 @@ body{
     background: #1a1a29;
 }
 
+.h-about{
+    position: absolute;
+    width: 168px;
+    height: 48px;
+
+    left: 136px;
+    top: 824px;
+    bottom: 2797px;
+    right: 1056px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+
+    color: #7562E0;
+}
