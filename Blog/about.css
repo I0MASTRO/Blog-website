@@ -44,6 +44,40 @@ body{
     color: #FFFFFF;
 }
 
+.five-plus{
+    position: absolute;
+    width: 112px;
+    height: 71px;
+
+    left: 129px;
+    top: 973px;
+    bottom: 2552px;
+    right: 1104px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 144px;
+
+    color: #7562E0;
+}
+
 .about-story-2{
-    
+    position: absolute;
+    width: 920px;
+    height: 72px;
+
+    left: 278px;
+    top: 950px;
+    bottom: 2591px;
+    right: 162px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #FFFFFF;
 }
