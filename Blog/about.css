@@ -134,3 +134,34 @@ body{
 
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
+
+.pen{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+
+    left: 160px;
+    top: 1233px;
+    bottom: 2394px;
+    right: 1158px;
+}
+
+.design{
+    position: absolute;
+    width: 131px;
+    height: 77px;
+
+    left: 160px;
+    top: 1289px;
+    bottom: 2303px;
+    right: 1069px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+
+}
