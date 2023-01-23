@@ -24,3 +24,22 @@ body{
 
     color: #7562E0;
 }
+
+.about-story-1{
+    position: absolute;
+    width: 1032px;
+    height: 101px;
+
+    left: 136px;
+    top: 880px;
+    bottom: 2688px;
+    right: 192px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}
