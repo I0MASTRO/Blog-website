@@ -29,6 +29,10 @@ body{
     color: #7562E0;
 }
 
+.services-list{
+    list-style: none;
+}
+
 .border-1{
     position: absolute;
     width: 341px;
@@ -51,4 +55,69 @@ body{
     top: 1625px;
     bottom: 1988px;
     right: 1025px;
+}
+
+.border-2{
+    position: absolute;
+    width: 341px;
+    height: 338px;
+
+    left: 499px;
+    top: 1550px;
+    bottom: 1781px;
+    right: 520px;
+
+    border-radius: 16px;
+}
+
+.border-3{
+    position: absolute;
+    width: 341px;
+    height: 338px;
+
+    left: 863px;
+    top: 1550px;
+    bottom: 1781px;
+    right: 158px;
+
+    border-radius: 16px;
+}
+
+.border-4{
+    position: absolute;
+    width: 341px;
+    height: 338px;
+
+    left: 136px;
+    top: 1904px;
+    bottom: 1427px;
+    right: 883px;
+
+    border-radius: 16px;
+}
+
+.border-5{
+    position: absolute;
+    width: 341px;
+    height: 338px;
+
+    left: 499px;
+    top: 1904px;
+    bottom: 1427px;
+    right: 520px;
+
+    border-radius: 16px;
+}
+
+.border-6{
+    position: absolute;
+    width: 341px;
+    height: 338px;
+
+    left: 863px;
+    top: 1904px;
+    bottom: 1427px;
+    right: 158px;
+
+    border-radius: 16px;
 }
