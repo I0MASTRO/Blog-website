@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\dima6\\Shopping-App\\index.html"
+            "file": "c:\\Users\\dima6\\Blog-website\\index.html"
         }
     ]
 }
