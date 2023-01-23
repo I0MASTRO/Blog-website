@@ -314,6 +314,46 @@ body{
     right: 660px;
 }
 
+.npm{
+    position: absolute;
+    width: 213px;
+    height: 36px;
+    
+    top: 2031px;
+    bottom: 1602px;
+    left: 564px;
+    right: 583px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.npmp{
+    position: absolute;
+    width: 296px;
+    height: 96px;
+    
+    top: 2083px;
+    bottom: 1490px;
+    left: 522px;
+    right: 542px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 32px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
 .border-6{
     position: absolute;
     width: 341px;
@@ -336,4 +376,46 @@ body{
     bottom: 1645px;
     left: 1009px;
     right: 303px;
+}
+
+.scrap{
+    position: absolute;
+    width: 182px;
+    height: 36px;
+    
+    top: 2041px;
+    bottom: 1592px;
+    left: 942px;
+    right: 236px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #7562E0;
+    
+}
+
+.wscrap{
+    position: absolute;
+    width: 296px;
+    height: 96px;
+    
+    top: 2083px;
+    bottom: 1490px;
+    left: 885px;
+    right: 179px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 32px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+    
 }
