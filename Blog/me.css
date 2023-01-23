@@ -107,8 +107,11 @@ body{
     position: absolute;
     width: 1360px;
     height: 128px;
+
     left: 0px;
     top: 641px;
+    right: 0px;
+    bottom: 2900px;
 
     background: #181824;
 }
