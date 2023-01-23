@@ -132,7 +132,9 @@ body{
     color: #FFFFFF;
 }
 
-.viwe{
+.viwe-1,
+.viwe-2,
+.viwe-3{
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -144,15 +146,31 @@ body{
     width: 145px;
     height: 43px;
 
-    top: 351px;
-    bottom: 23px;
-    left: 16px;
-    right: 182px;
-
     background: #7562E0;
     border-radius: 8px;
 
     cursor: pointer;
+}
+
+.viwe-1{
+    top: 351px;
+    bottom: 23px;
+    left: 16px;
+    right: 182px;    
+}
+
+.viwe-2{
+    top: 351px;
+    bottom: 23px;
+    left: 19px;    
+    right: 180px;
+}
+
+.viwe-3{
+    top: 351px;
+    bottom: 23px;
+    left: 21px;
+    right: 177px;    
 }
 
 .wlive{
@@ -177,7 +195,9 @@ body{
     right: 35px;
 }
 
-.repo{
+.repo-1,
+.repo-2,
+.repo-3{
     box-sizing: border-box;
 
     display: flex;
@@ -191,16 +211,32 @@ body{
     width: 144px;
     height: 43px;
 
-    top: 351px;
-    bottom: 23px;
-    left: 179px;
-    right: 20px;
-    
     border: 2px solid #7562E0;
     border-radius: 8px;
     background: #1a1a29;
 
     cursor: pointer;
+}
+
+.repo-1{
+    top: 351px;
+    bottom: 23px;
+    left: 179px;
+    right: 20px;    
+}
+
+.repo-2{
+    top: 351px;
+    bottom: 23px;
+    left: 182px; 
+    right: 18px;   
+}
+
+.repo-3{
+    top: 351px;
+    bottom: 23px;
+    left: 184px;
+    right: 15px;
 }
 
 .grepo{
@@ -223,4 +259,81 @@ body{
     bottom: 9.5px;
     left: 22px;
     right: 22px;
+}
+
+.livent{
+    position: absolute;
+    width: 94px;
+    height: 36px;
+    
+    top: 205px;
+    bottom: 176px;
+    left: 17px;
+    right: 233px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #7562E0;
+}
+
+.vid{
+    position: absolute;
+    width: 303px;
+    height: 81px;
+    
+    top: 246px;
+    bottom: 90px;
+    left: 17px;
+    right: 24px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    
+
+    color: #FFFFFF;
+}
+
+.move{
+    position: absolute;
+    width: 90px;
+    height: 36px;
+    
+    top: 205px;
+    bottom: 176px;
+    left: 17px;
+    right: 236px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #7562E0;
+}
+
+.pmove{
+    position: absolute;
+    width: 303px;
+    height: 81px;
+    
+    top: 246px;
+    bottom: 90px;
+    left: 21px;
+    right: 19px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+  
+    color: #FFFFFF;
 }
