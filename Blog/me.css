@@ -70,3 +70,29 @@ body{
 
     color: #FFFFFF;
 }
+
+.man{
+    position: absolute;
+    width: 444px;
+    height: 444px;
+    left: 756px;
+    top: 111px;
+}
+
+.ellipse{
+    position: absolute;
+    width: 486px;
+    height: 486px;
+    left: 722px;
+    top: 275px;
+}
+
+.rectangle{
+    position: absolute;
+    width: 1360px;
+    height: 128px;
+    left: 0px;
+    top: 641px;
+
+    background: #181824;
+}
