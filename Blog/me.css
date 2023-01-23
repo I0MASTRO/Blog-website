@@ -96,3 +96,56 @@ body{
 
     background: #181824;
 }
+
+.About-me{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 12px 25px;
+    gap: 6px;
+    
+    position: absolute;
+    width: 160px;
+    height: 48px;
+
+    left: 136px;
+    top: 463px;
+    bottom: 50px;
+    right: 1064px;
+    
+    /* Primary-colour */
+    
+    background: #7562E0;
+    border-radius: 8px;
+}
+
+.about-word{
+    width: 80px;
+    height: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.user{
+    position: absolute;
+    left: 249px;
+    top: 485px;
+    bottom: 64px;
+    right: 1091px;
+    width: 20px;
+    height: 20px;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
