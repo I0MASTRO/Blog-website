@@ -70,6 +70,17 @@ body{
     border-radius: 16px;
 }
 
+.code-large{
+    position: absolute;
+    width: 57px;
+    height: 57px;
+
+    top: 1626px;
+    bottom: 1986px;
+    right: 662px;
+    left: 641px;
+}
+
 .border-3{
     position: absolute;
     width: 341px;
@@ -83,6 +94,17 @@ body{
     border-radius: 16px;
 }
 
+.android-large{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+
+    top: 1613px;
+    bottom: 1986px;
+    left: 998px;
+    right: 292px;
+}
+
 .border-4{
     position: absolute;
     width: 341px;
@@ -94,6 +116,17 @@ body{
     right: 883px;
 
     border-radius: 16px;
+}
+
+.git-repo{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+
+    top: 1965px;
+    bottom: 1642px;
+    left: 272px;
+    right: 1026px;
 }
 
 .border-5{
