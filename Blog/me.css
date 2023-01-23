@@ -27,8 +27,11 @@ body{
     position: absolute;
     width: 148px;
     height: 48px;
+
     left: 136px;
-    top: 220px;
+    top: 203px;
+    bottom: 310;
+    right: 1076px;
     
     font-family: 'Poppins';
     font-style: normal;
@@ -43,8 +46,11 @@ body{
     position: absolute;
     width: 426px;
     height: 78px;
+
     left: 136px;
     top: 257px;
+    bottom: 226px;
+    right: 798px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -59,8 +65,11 @@ body{
     position: absolute;
     width: 435px;
     height: 81px;
+
     left: 136px;
-    top: 370px;
+    top: 347px;
+    bottom: 133px;
+    right: 789px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -75,17 +84,24 @@ body{
     position: absolute;
     width: 444px;
     height: 444px;
+
     left: 756px;
     top: 111px;
+    bottom: 6px;
+    right: 160px;
 }
 
 .ellipse{
     position: absolute;
     width: 486px;
     height: 486px;
+
     left: 722px;
-    top: 275px;
+    top: 195px;
+    bottom: 120px;
+    right: 152px;
 }
+
 
 .rectangle{
     position: absolute;
@@ -103,6 +119,7 @@ body{
     align-items: flex-start;
     padding: 12px 25px;
     gap: 6px;
+    cursor: pointer;
     
     position: absolute;
     width: 160px;
@@ -138,10 +155,12 @@ body{
 
 .user{
     position: absolute;
+
     left: 249px;
-    top: 485px;
+    top: 477px;
     bottom: 64px;
     right: 1091px;
+
     width: 20px;
     height: 20px;
 
