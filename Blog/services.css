@@ -250,6 +250,46 @@ body{
     right: 1026px;
 }
 
+.vers{
+    position: absolute;
+    width: 223px;
+    height: 36px;
+    
+    top: 2031px;
+    bottom: 1602px;
+    left: 195px;
+    right: 942px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 36px;
+
+    color: #7562E0;
+}
+
+.versp{
+    position: absolute;
+    width: 296px;
+    height: 96px;
+    
+    top: 2083px;
+    bottom: 1490px;
+    left: 161px;
+    right: 903px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 32px;
+    
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
 .border-5{
     position: absolute;
     width: 341px;
