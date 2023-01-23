@@ -96,43 +96,35 @@ body{
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-.square-2{
-    position: absolute;
-    width: 256px;
-    height: 254px;
-
-    left: 409px;
-    top: 1136px;
-    bottom: 2279px;
-    right: 695px;
-
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
-}
-
-.square-3{
-    position: absolute;
-    width: 255px;
-    height: 254px;
-
-    left: 682px;
-    top: 1136px;
-    bottom: 2279px;
-    right: 423px;
-
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
-}
-
+.square-2,
+.square-3,
 .square-4{
     position: absolute;
     width: 256px;
     height: 254px;
 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.square-2{
+    left: 409px;
+    top: 1136px;
+    bottom: 2279px;
+    right: 695px;    
+}
+
+.square-3{
+    left: 682px;
+    top: 1136px;
+    bottom: 2279px;
+    right: 423px;
+}
+
+.square-4{
     left: 954px;
     top: 1136px;
     bottom: 2279px;
     right: 150px;
-
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .pen{
