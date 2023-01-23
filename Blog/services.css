@@ -28,3 +28,27 @@ body{
 
     color: #7562E0;
 }
+
+.border-1{
+    position: absolute;
+    width: 341px;
+    height: 338px;
+
+    left: 136px;
+    top: 1550px;
+    bottom: 1781px;
+    right: 883px;
+
+    border-radius: 16px;
+}
+
+.pencile{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+
+    left: 279px;
+    top: 1625px;
+    bottom: 1988px;
+    right: 1025px;
+}
