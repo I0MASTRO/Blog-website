@@ -82,14 +82,46 @@ body{
     color: #FFFFFF;
 }
 
-.about-list{
+.square-1{
     position: absolute;
-    width: 1120px;
+
+    width: 256px;
     height: 254px;
 
     left: 136px;
     top: 1136px;
     bottom: 2279px;
-    right: 104px;
+    right: 968px;
 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.square-2{
+    position: absolute;
+    width: 256px;
+    height: 254px;
+
+    left: 409px;
+    top: 1136px;
+    bottom: 2279px;
+    right: 695px;
+
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.square-3{
+    position: absolute;
+    width: 255px;
+    height: 254px;
+
+    left: 682px;
+    top: 1136px;
+    bottom: 2279px;
+    right: 423px;
+
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.square-4{
+    
 }
