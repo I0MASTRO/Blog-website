@@ -81,3 +81,15 @@ body{
 
     color: #FFFFFF;
 }
+
+.about-list{
+    position: absolute;
+    width: 1120px;
+    height: 254px;
+
+    left: 136px;
+    top: 1136px;
+    bottom: 2279px;
+    right: 104px;
+
+}
