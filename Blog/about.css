@@ -163,5 +163,94 @@ body{
     line-height: 36px;
 
     color: #FFFFFF;
+}
 
+.cod{
+    position: absolute;
+    width: 52px;
+    height: 52px;
+
+    left: 437px;
+    top: 1229px;
+    bottom: 2388px;
+    right: 871px;
+}
+
+.web-dev{
+    position: absolute;
+    width: 171px;
+    height: 72px;
+
+    left: 437px;
+    top: 1289px;
+    bottom: 2308px;
+    right: 752px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.android{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+
+    top: 1217px;
+    bottom: 2390px;
+    left: 704px;
+    right: 594px;
+}
+
+.mobile{
+    position: absolute;
+    width: 171px;
+    height: 77px;
+
+    left: 710px;
+    top: 1289px;
+    bottom: 2303px;
+    right: 479px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.python{
+    position: absolute;
+    width: 54.99px;
+    height: 55px;
+
+    top: 1219.01px;
+    bottom: 2395px;
+    left: 982px;
+    right: 323.01px;
+}
+
+.web-py{
+    position: absolute;
+    width: 182px;
+    height: 77px;
+
+    left: 982px;
+    top: 1289px;
+    bottom: 2303px;
+    right: 196px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
 }
