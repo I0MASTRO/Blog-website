@@ -142,6 +142,17 @@ body{
     border-radius: 16px;
 }
 
+.js{
+    position: absolute;
+    width: 54px;
+    height: 54px;
+
+    top: 1974px;
+    bottom: 1641px;
+    left: 646px;
+    right: 660px;
+}
+
 .border-6{
     position: absolute;
     width: 341px;
@@ -153,4 +164,15 @@ body{
     right: 158px;
 
     border-radius: 16px;
+}
+
+.slider{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+
+    top: 1976px;
+    bottom: 1645px;
+    left: 1009px;
+    right: 303px;
 }
