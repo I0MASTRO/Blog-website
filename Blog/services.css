@@ -57,6 +57,46 @@ body{
     right: 1025px;
 }
 
+.ui{
+    position: absolute;
+    width: 223px;
+    height: 44px;
+
+    top: 1689px;
+    bottom: 1936px;
+    left: 195px;
+    right: 942px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 44px;
+
+    color: #FFFFFF;
+}
+
+.des{
+    position: absolute;
+    width: 296px;
+    height: 64px;
+
+    top: 1749px;
+    bottom: 1856px;
+    left: 159px;
+    right: 905px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 32px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
 .border-2{
     position: absolute;
     width: 341px;
@@ -81,6 +121,47 @@ body{
     left: 641px;
 }
 
+.wd{
+    position: absolute;
+    width: 229px;
+    height: 36px;
+
+    top: 1694px;
+    bottom: 1939px;
+    left: 555px;
+    right: 576px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 36px;
+
+    color: #7562E0;
+}
+
+.wdp{
+    position: absolute;
+    width: 296px;
+    height: 112px;
+
+    top: 1746px;
+    bottom: 1811px;
+    left: 521px;
+    right: 543px;
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 28px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
 .border-3{
     position: absolute;
     width: 341px;
@@ -103,6 +184,46 @@ body{
     bottom: 1986px;
     left: 998px;
     right: 292px;
+}
+
+.mobd{
+    position: absolute;
+    width: 263px;
+    height: 36px;
+
+    top: 1694px;
+    bottom: 1939px;
+    left: 901px;
+    right: 196px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.mobdp{
+    position: absolute;
+    width: 296px;
+    height: 84px;
+
+    top: 1746px;
+    bottom: 1839px;
+    left: 882px;
+    right: 182px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 28px;
+    
+    text-align: center;
+
+    color: #FFFFFF;
 }
 
 .border-4{
