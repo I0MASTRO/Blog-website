@@ -213,3 +213,18 @@ body{
     order: 0;
     flex-grow: 0;
 }
+
+.eye{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+
+    top: 475px;
+    left: 433px;
+    bottom: 66px;
+    right: 907px;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
