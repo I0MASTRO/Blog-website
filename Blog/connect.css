@@ -182,4 +182,5 @@ input::placeholder-show{
     line-height: 24px;
 
     color: white;
+    cursor: pointer;
 }
