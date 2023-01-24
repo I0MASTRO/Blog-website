@@ -1,0 +1,163 @@
+body{
+    position: relative;
+    width: 1360px;
+    height: 3669px;
+
+    background: #1a1a29;
+}
+
+.connect{
+    position: absolute;
+}
+
+.h-connect{
+    position: absolute;
+    width: 286px;
+    height: 48px;
+
+    top: 3031px;
+    bottom: 590px;
+    left: 136px;
+    right: 938px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+
+    color: #7562E0;
+    
+}
+
+.p-connect{
+    position: absolute;
+    width: 339px;
+    height: 27px;
+
+    top: 3095px;
+    bottom: 547px;
+    left: 136px;
+    right: 885px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+    
+}
+
+.a-connect-1,
+.a-connect-2,
+.a-connect-3,
+.a-connect-4{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 3146px;
+    bottom: 491px;
+}
+
+.a-connect-1{
+    left: 138px;
+    right: 1190px;
+}
+
+.a-connect-2{
+    left: 186px;
+    right: 1142px;
+}
+
+.a-connect-3{
+    left: 234px;
+    right: 1094px;
+}
+
+.a-connect-4{
+    left: 282px;
+    right: 1046px;
+}
+
+.p-text{
+    position: absolute;
+    width: 475px;
+    height: 36px;
+
+    top: 3031px;
+    bottom: 602px;
+    left: 666px;
+    right: 219px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+    
+}
+
+.Name{
+    position: absolute;
+    width: 472px;
+    height: 62px;
+
+    left: 668px;
+    top: 3091px;
+    bottom: 516px;
+    right: 220px;
+
+    background: #31313F;
+    border-radius: 8px;
+}
+
+input::placeholder-show{
+    position: absolute;
+    width: 53px;
+    height: 24px;
+
+    left: 684px;
+    top: 3110px;
+    bottom: 535px;
+    right: 623px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: black;
+}
+
+.Email{
+    position: absolute;
+    width: 472px;
+    height: 62px;
+
+    left: 668px;
+    top: 3169px;
+    right: 220px;
+    bottom: 438px;
+
+    background: #31313F;
+    border-radius: 8px;
+}
+
+.Message{
+    position: absolute;
+    width: 472px;
+    height: 98px;
+
+    left: 668px;
+    top: 3247px;
+    bottom: 324px;
+    right: 220px;
+    
+    background: #31313F;
+    border-radius: 8px;
+}
