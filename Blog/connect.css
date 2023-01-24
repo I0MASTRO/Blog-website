@@ -161,3 +161,25 @@ input::placeholder-show{
     background: #31313F;
     border-radius: 8px;
 }
+
+.Send{
+    position: absolute;
+    width: 174px;
+    height: 50px;
+
+    left: 668px;
+    top: 3361px;
+    bottom: 258px;
+    right: 518px;
+    
+    background: #7562E0;
+    border-radius: 8px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: white;
+}
