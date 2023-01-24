@@ -1,0 +1,96 @@
+body{
+    position: relative;
+    width: 1360px;
+    height: 3669px;
+    background: #1a1a29;
+}
+
+.footer-main{
+    position: absolute;
+}
+
+.footer-item-1,
+.footer-item-2,
+.footer-item-3,
+.footer-item-4,
+.footer-item-5{
+    position: absolute;
+    top: 3568px;
+    bottom: 77px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+    
+    opacity: 0.5;
+}
+
+.footer-item-1{
+    width: 225px;
+    height: 24px;
+    left: 136px;
+    right: 999px;
+}
+
+.footer-item-2{
+    width: 157px;
+    height: 24px;
+    left: 430px;
+    right: 773px;
+}
+
+.footer-item-3{
+    width: 91px;
+    height: 24px;
+    left: 635px;
+    right: 634px;
+}
+
+.footer-item-4{
+    width: 104px;
+    height: 24px;
+    left: 795px;
+    right: 461px;
+}
+
+.footer-item-5{
+    width: 216px;
+    height: 24px;
+    left: 971px;
+    right: 173px;
+}
+
+.footer-i-1,
+.footer-i-2,
+.footer-i-3,
+.footer-i-4{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    bottom: 32px;
+    top: 3615px;
+}
+
+.footer-i-1{
+    left: 138px;
+    right: 1192px;
+}
+
+.footer-i-2{
+    left: 183px;
+    right: 1147px;
+}
+
+.footer-i-3{
+    left: 228px;
+    right: 1102px;
+}
+
+.footer-i-4{
+    left: 273px;
+    right: 1057px;
+}
